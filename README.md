@@ -24,6 +24,14 @@ El foco del análisis fue ayudar a los usuarios a identificar **qué supermercad
 - **Gráfico de columnas** comparando precios por producto.
 - **Tabla resumen** destacando el precio más bajo y el supermercado que lo ofrece.
 - **Filtro por producto o categoría** para facilitar la búsqueda.
+- ## 🔄 Navegación Interactiva
+
+El dashboard está diseñado con **botones interactivos** que mejoran la experiencia de usuario:
+
+- Cada imagen en la **portada** actúa como botón que dirige a su respectiva solapa temática.
+- Cada solapa cuenta con un botón para **volver al inicio**, permitiendo una navegación clara, rápida e intuitiva.
+
+Esto facilita la exploración de datos, incluso para usuarios sin experiencia en herramientas de análisis.
 
 ---
 
