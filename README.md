@@ -62,16 +62,18 @@ La tabla dinámica permite **filtrar productos** y ver de forma inmediata:
 
 - `/dashboard/` → Captura del tablero final
 - `/data/` → Base cargada manualmente en Excel
-- `README.md` → Este archivo
+- `README.md` 
 
 ---
 
 ## 🧑‍🎓 Autor
 
 **José Maguregui**  
+
 Estudiante de Data Analytics - Coderhouse  
+
 📧 maguregui66@gmail.com  
 🐙 [GitHub]https://github.com/Jomaguregui
 💼 [LinkedIn][(https://linkedin.com/in/Jomaguregui
 
-](https://www.linkedin.com/in/jose-maguregui-55a272215/
+
